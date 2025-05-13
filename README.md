@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <div style="display: flex; overflow-x: auto;">
   <img src="https://github.com/user-attachments/assets/aa9f92fe-6f16-4506-825f-2a6734ab8798" alt="Screenshot 1" width="300"/>
   <img src="https://github.com/user-attachments/assets/b0bbee78-7d80-4813-8d9f-3e0abc8e0b07" alt="Screenshot 2" width="300"/>
+  
 </div>
 
 **Игровой процесс:** 
