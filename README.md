@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 
 https://github.com/user-attachments/assets/f0e79629-fb2e-4e41-b47b-85fb8eb53be9
 
-**Ссылка на игру:** [Kings and pigs](https://avt0r.github.io/kings-and-pigs-web/)
+**Ссылка на игру:** 
+[Kings and pigs(apk)](https://disk.yandex.ru/d/DS-wVLJD6YPrcw)
+[Kings and pigs(exe)](https://disk.yandex.ru/d/UiBSeEsEblWpcA)
 
 ### *Zona2D*
 
